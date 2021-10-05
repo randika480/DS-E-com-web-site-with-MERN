@@ -1,0 +1,28 @@
+.custom-cart-body {
+  margin-top: 4vh;
+  padding: 3vh;
+}
+
+.custom-cart-card {
+  box-shadow: 0 1rem 2rem rgba(0, 0, 0, 0.2);
+  padding: 1vw;
+  margin: auto;
+  height: fit-content;
+}
+
+.custom-cart-item-side {
+  width: fit-content;
+}
+
+.custom-cart-item-pp {
+  width: 7vw;
+  height: 7vw;
+  padding: 0;
+}
+
+.custom-cart-item-pp-img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  padding: 0;
+}

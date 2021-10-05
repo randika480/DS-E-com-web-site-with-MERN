@@ -1,0 +1,22 @@
+.sellerSidebar {
+  width: 22vw;
+  height: fit-content;
+  padding: 2vh;
+  box-shadow: 0 1rem 2rem rgba(0, 0, 0, 0.2);
+  border-radius: 5px;
+  margin: auto;
+  margin-bottom: 3vh;
+  margin-top: 5vh;
+  padding-top: 1.5vh;
+}
+.sellerSidebar-body {
+  width: 150vw;
+  height: fit-content;
+  padding: 2vh;
+  box-shadow: 0 1rem 2rem rgba(0, 0, 0, 0.2);
+  border-radius: 5px;
+  margin: auto;
+  margin-bottom: 3vh;
+  padding-top: 1.5vh;
+  margin-top: 5vh;
+}

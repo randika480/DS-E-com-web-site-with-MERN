@@ -1,0 +1,32 @@
+.singleProduct {
+  padding: 1vw;
+  box-shadow: 0 1rem 2rem rgba(0, 0, 0, 0.2);
+  width: fit-content;
+  margin: auto;
+  width: 80vw;
+  margin-top: 2vw;
+}
+
+.singleProductImg {
+  height: 4 0vw;
+  width: 25vw;
+  margin: auto;
+  padding: 1vw;
+  box-shadow: 0 1rem 2rem rgba(0, 0, 0, 0.2);
+}
+.img {
+  height: 28vw;
+  width: 23vw;
+}
+
+.ProductDet {
+  padding: 1vw;
+  box-shadow: 0 1rem 2rem rgba(0, 0, 0, 0.2);
+}
+
+.ProductDet h1 {
+  text-align: center;
+}
+.ProductDet {
+  color: rgb(161, 159, 159);
+}

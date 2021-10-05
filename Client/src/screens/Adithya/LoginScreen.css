@@ -1,0 +1,45 @@
+.login-container {
+  padding-top: 10vh;
+}
+
+.login-body-img-side {
+  background-image: url("https://i.ibb.co/5BpZ5VP/complexcareleadart.jpg");
+  background-repeat: no-repeat;
+  background-size: auto;
+  margin-right: 2vh;
+  min-height: 40vh;
+}
+
+.error-message {
+  background-color: red;
+  display: block;
+  color: white;
+  margin-bottom: 2vh;
+}
+
+.login-form-body {
+  width: 100vh;
+  height: fit-content;
+  padding: 2vh;
+  box-shadow: 0 1rem 2rem rgba(0, 0, 0, 0.2);
+  border-radius: 5px;
+  margin: auto;
+  margin-bottom: 3vh;
+  padding-top: 1.5vh;
+  font-size: large;
+}
+
+.login-role-selection {
+  font-size: 1.2rem;
+}
+
+.custom-text-size {
+  margin-top: 3px;
+  font-size: 1rem;
+}
+
+@media (max-width: 995px) {
+  .login-body-img-side {
+    display: none;
+  }
+}

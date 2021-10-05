@@ -1,0 +1,18 @@
+.reg-form-body {
+  padding: 3vh;
+  margin-left: 2vh;
+  height: fit-content;
+  box-shadow: 0 1rem 2rem rgba(0, 0, 0, 0.2);
+  border-radius: 5px;
+  font-size: 1rem;
+}
+
+.error-message {
+  background-color: red;
+  display: block;
+  block-size: auto;
+  color: white;
+  padding: 1.8vh;
+  border-radius: 4px;
+  margin-bottom: 2vh;
+}

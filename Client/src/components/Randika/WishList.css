@@ -1,0 +1,25 @@
+.wishlistCard {
+  padding: 1vw;
+  box-shadow: 0 1rem 2rem rgba(0, 0, 0, 0.2);
+  width: fit-content;
+  margin: auto;
+  margin-top: 2vw;
+  height: fit-content;
+  margin-bottom: 2vw;
+}
+.wishlistImg {
+  margin-left: 2vw;
+  height: 10vw;
+  width: 10vw;
+  box-shadow: 0 1rem 2rem rgba(0, 0, 0, 0.2);
+}
+
+.detWishlist {
+  padding: 1vw;
+  margin-left: 2vw;
+}
+
+.wishlistRow {
+  width: fit-content;
+  margin: 0;
+}

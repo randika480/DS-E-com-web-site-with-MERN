@@ -1,0 +1,21 @@
+
+.orderDet {
+    width: 50%;
+  float: left;
+  box-shadow: 0 1rem 2rem rgba(0, 0, 0, 0.2);
+  padding: 1vw;
+  height: 27vw;
+  margin-bottom: 1vw;
+  
+
+}
+
+.cusDets {
+    width: 50%;
+  float: left;
+  box-shadow: 0 1rem 2rem rgba(0, 0, 0, 0.2);
+  padding: 1vw;
+  height: 27vw;
+  margin-bottom: 1vw;
+
+}

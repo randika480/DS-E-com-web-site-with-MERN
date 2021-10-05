@@ -1,0 +1,18 @@
+.adminDelContainor{
+    margin: auto;
+    width: 95%;
+    padding: 2vh;
+    text-align: center;
+}
+
+.navItem{
+    width: 25%;
+}
+.navItem:hover {
+    background-color: gray;
+  }
+.bodyContainor{
+    padding: 1vh;
+    box-shadow: 0 1rem 2rem rgba(0, 0, 0, 0.2);
+    width: 100%;
+}

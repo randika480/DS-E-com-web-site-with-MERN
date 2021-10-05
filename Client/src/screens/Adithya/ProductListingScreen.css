@@ -1,0 +1,30 @@
+.custom-product-list-container {
+  width: 100%;
+  height: fit-content;
+  padding: 2vh;
+  box-shadow: 0 1rem 2rem rgba(0, 0, 0, 0.2);
+  border-radius: 5px;
+  margin: auto;
+  margin-bottom: 3vh;
+  padding-top: 1.5vh;
+}
+
+.custom-prod-listing {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  padding: 3vh;
+}
+
+.custom-prod-img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  padding: 0;
+}
+.custom-prod-img-covering {
+  margin: auto;
+  width: 17vw;
+  height: 17vw;
+  padding: 0;
+}

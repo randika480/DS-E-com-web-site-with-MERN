@@ -1,0 +1,16 @@
+.custom-category-body {
+  padding-top: 5vh;
+  padding-bottom: 6vh;
+  width: 60vw;
+}
+
+.custom-category-title {
+  margin-bottom: 3vh;
+}
+.custom-home-category-card-style {
+  height: fit-content;
+  padding: 1.5vh;
+  margin: 1vh;
+  box-shadow: 0 1rem 2rem rgba(0, 0, 0, 0.2);
+  border-radius: 5px;
+}
